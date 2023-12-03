@@ -1,4 +1,8 @@
-# Student template
+# Course assignment
+
+Teemu & Joni
+
+Working with node v19.4.0 
 
 ## Purpose of this repository
 
