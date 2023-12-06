@@ -24,7 +24,7 @@ jobs:
     - run: npm ci
     - run: npm run build --if-present
     # Luodaan coverage kansio
-    - run: c8 --reporter=lcov mocha
+    - run: npm run coverage
     # Otetaan Coveralls käyttöön
     - name: Coveralls GitHub Action
       uses: coverallsapp/github-action@v2.2.3
