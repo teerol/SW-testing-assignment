@@ -4,6 +4,8 @@ Teemu & Joni
 
 Working with node v19.4.0 
 
+[![Coverage Status](https://coveralls.io/repos/github/teerol/SW-testing-assignment/badge.svg)](https://coveralls.io/github/teerol/SW-testing-assignment)
+
 ## Purpose of this repository
 
 This is a project template for students participating in Software Testing course
