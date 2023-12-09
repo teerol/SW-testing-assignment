@@ -4,6 +4,8 @@ Teemu & Joni
 
 Working with node v19.4.0 
 
+[![Unit Tests](https://github.com/teerol/SW-testing-assignment/actions/workflows/node.js.yml/badge.svg)](https://coveralls.io/github/teerol/SW-testing-assignment)
+
 [![Coverage Status](https://coveralls.io/repos/github/teerol/SW-testing-assignment/badge.svg)](https://coveralls.io/github/teerol/SW-testing-assignment)
 
 ## Purpose of this repository
