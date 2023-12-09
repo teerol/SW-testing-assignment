@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "mocha --timeout 10000",
-    "coverage": "c8 --reporter=lcov --reporter=text mocha "
+    "coverage": "c8 --reporter=lcov --reporter=text --include src/*.js mocha --timeout 10000"
   },
   "author": "",
   "license": "MIT",

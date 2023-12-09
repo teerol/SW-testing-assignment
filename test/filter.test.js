@@ -12,6 +12,7 @@ describe("Filter", () => {
         expect(result).to.have.length(1);
         expect(result[0].user).to.equal("barney");
     });
+    // BUG!, empty array should return [] not [ [] ]
     // it("empty array", () =>{
     //     const result = filter(null, ({ active }) => active);
     //     expect(result).to.be.empty();
