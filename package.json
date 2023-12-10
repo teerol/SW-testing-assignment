@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "mocha --timeout 10000",
-    "coverage": "c8 mocha npm test"
+    "coverage": "c8 npm test"
   },
   "author": "",
   "license": "MIT",
